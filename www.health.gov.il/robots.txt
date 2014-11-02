@@ -1,0 +1,136 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" pageEncoding="utf-8">
+	<HEAD>
+	<TITLE> Error-2010-f1</TITLE>
+       
+	<META NAME="Generator" CONTENT="EditPlus">
+	<META NAME="Author" CONTENT="">
+	<META NAME="Keywords" CONTENT="">
+	<META NAME="Description" CONTENT="">
+       
+
+        <LINK href="http://www.gov.il/firstgov/CSS/IE/master.css" type="text/css" rel="stylesheet">
+	<LINK href="http://www.gov.il/firstgov/CSS/IE/boxesNew.css" type=text/css rel=stylesheet >
+	<LINK href="http://www.gov.il/firstgov/CSS/IE/Shoham.css" type="text/css" rel="stylesheet">
+	<LINK href="http://www.gov.il/firstgov/CSS/IE/GlobalElements.css" type=text/css rel=stylesheet >
+
+	
+	</HEAD>
+
+ <BODY>
+ <Center>
+<table cellpadding="0" cellspacing="0" border="0" width="80%" height="80%" dir="rtl" bordercolor="green" dir="rtl">
+ <TR>
+
+	<TD height="15px"></TD>
+	<TD></TD><TD></TD><TD></TD><TD></TD>
+ </TR>
+ <TR>
+	<TD colspan=3>
+		<img src="http://www.gov.il/firstgov/Images/he/header/new-headerF2.jpg">
+	</TD>
+	<TD width="30px"> </TD>
+	<TD> </TD>
+
+ </TR>
+ <TR>
+	<TD height="40px"></TD>
+	<TD></TD><TD></TD><TD></TD><TD></TD>
+ </TR>
+ <TR align=right>
+	<TD></TD>
+	<TD colspan=2>
+	 גולש יקר, הפעולה אותה ביצעת אינה נתמכת ובשל כך לא ניתן להציג את הדף המבוקש.
+	</TD>
+
+	<TD></TD>
+	<TD></TD>
+	<TD></TD>
+ </TR>
+ 
+<TR align=right>
+	<TD></TD>
+	<TD colspan=2>
+ניתן לפנות לצוות התמיכה לדיווח על הודעה זו לפי הפרטים הבאים:
+	</TD>
+	<TD></TD>
+
+	<TD></TD>
+	<TD></TD>
+ </TR>
+ <TR align=right>
+	<TD></TD>
+	<TD colspan=2>
+
+	</TD>
+	<TD></TD>
+	<TD></TD>
+
+	<TD></TD>
+ </TR>
+ 
+ <TR align=right>
+	<TD></TD>
+	<TD colspan=2>
+דואר אלקטרוני: info@tehila.gov.il
+	</TD>
+	<TD></TD>
+	<TD></TD>
+	<TD></TD>
+
+ </TR>
+<tr>
+<td></td>
+</tr>
+<TR align=left dir="ltr">
+	<TD></TD>
+	<TD colspan=2>
+The requested operation is not supported, and therefore can not be displayed.
+	</TD>
+	<TD></TD>
+	<TD></TD>
+	<TD></TD>
+
+ </TR>
+<TR align=left dir="ltr">
+	<TD></TD>
+	<TD colspan=2>
+A support team is available at :  info@tehila.gov.il
+	</TD>
+	<TD></TD>
+	<TD></TD>
+	<TD></TD>
+ </TR>
+
+ <TR>
+	<TD height="35px"></TD>
+	<TD></TD><TD></TD><TD></TD><TD></TD>
+ </TR>
+ <TR align=center>
+
+	<TD width="40px"></TD>
+<!--	<TD width="30px"></TD>
+-->
+	<TD>
+		<A HREF="http://www.health.gov.il">חזרה לדף הבית </A>
+
+	</TD>
+	<TD >
+		<A HREF="http://www.health.gov.il">Back To HomePage</A>
+	</TD>
+ </TR>
+ <TR>
+	<TD></TD>
+	<TD></TD><TD></TD><TD></TD><TD></TD>
+
+ </TR>
+ <TR>
+	<TD height="35px"></TD>
+	<TD></TD><TD></TD><TD></TD><TD></TD>
+ </TR>
+ 
+ </TABLE>
+ </Center>
+ </BODY>
+</HTML>
